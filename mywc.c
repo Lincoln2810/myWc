@@ -43,7 +43,6 @@ int main(int argc, char *argv[]) {
             count++;
         }
         printf("\nNumber of words: %d\n", count);
-        return 0;
     }
 
     return 0;
